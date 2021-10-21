@@ -1,0 +1,29 @@
+body {
+  margin: 20px;
+}
+
+ul {
+  margin: 20px;
+  padding: 0;
+  list-style-type: none;
+}
+
+.par {
+  border: 1px blue dashed;
+}
+
+li {
+  margin: 5px;
+}
+
+input {
+  margin: 5px;
+}
+
+select {
+  margin: 5px;
+}
+
+.itemClass {
+  margin-left: 10px;
+}
